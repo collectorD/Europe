@@ -1,8 +1,8 @@
 [
 { "moduleId" : "mapman100/Here"},
 { "moduleId" : "mapman100/Blitzer"},
-{ "moduleId" : "Fritz911/osm"},
+{ "moduleId" : "jamesbond002/osm"},
 { "moduleId" : "wazemap/waze"},
-{ "moduleId" : "wikifan/wikimap"},
+{ "moduleId" : "wazemap/wikimap"},
 { "moduleId" : "grabowCommuter/Speedometer"}
 ]
