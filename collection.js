@@ -4,5 +4,7 @@
 { "moduleId" : "jamesbond002/osm"},
 { "moduleId" : "wazemap/waze"},
 { "moduleId" : "wazemap/wikimap"},
-{ "moduleId" : "grabowCommuter/Speedometer"}
+{ "moduleId" : "grabowCommuter/Speedometer"},
+{ "moduleId" : "grabowCommuter/Google_Places"},
+{ "moduleId" : "maps4all/parkopedia"}
 ]
