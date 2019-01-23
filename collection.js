@@ -1,10 +1,8 @@
 [
-{ "moduleId" : "mapman100/Here"},
-{ "moduleId" : "mapman100/Blitzer"},
-{ "moduleId" : "jamesbond002/osm"},
-{ "moduleId" : "wazemap/waze"},
-{ "moduleId" : "wazemap/wikimap"},
-{ "moduleId" : "grabowCommuter/Speedometer"},
+{ "moduleId" : "grabowCommuter/GoogleSatTraffic"},
 { "moduleId" : "grabowCommuter/Google_Places"},
-{ "moduleId" : "maps4all/parkopedia"}
+{ "moduleId" : "jamesbond002/osm"},
+{ "moduleId" : "grabowCommuter/TomTomMap"},
+{ "moduleId" : "grabowCommuter/TomTomNews"},
+{ "moduleId" : "grabowCommuter/wikimap"}
 ]
